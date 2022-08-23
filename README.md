@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rakesh Sahni</h1>
 <h3 align="center">A passionate data science and machine learning developer</h3>
-<a href="https://sohipm.com"><img align="right" alt="sohipm" width="400" src="https://sohipm.com/static/img/Sohipm.png"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshsahni&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshsahni" /> </p>
 
 - 🌱 I’m currently learning **NLP Transformers, Transfer Learning**
@@ -26,12 +25,12 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://sohipm.com/](https://sohipm.com/)
 
-- 💬 Ask me about **Data Science, Machine Learning and Deep learning**
+- 💬 Ask me about **Data Science, Machine Learning, Deep learning and Natural Language Processing**
 
-- 📫 How to reach me **rakeshgon123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://sohipm.com" target="blank"><img align="center" src="https://sohipm.com/static/img/favicon%2032x32.png" alt="sohipm" height="30"/></a>
 <a href="https://linkedin.com/in/rakesh-sahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh-sahni" height="30" width="40" /></a>
 <a href="https://kaggle.com/rakeshsahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rakeshsahni" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rakesh sahni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rakesh sahni" height="30" width="40" /></a>
