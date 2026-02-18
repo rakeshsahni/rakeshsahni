@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rakesh Sahni 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=ML+Engineer+%26+Data+Scientist;Building+AI-Driven+Solutions;2%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI-Driven+Solutions" alt="Typing SVG" />
 </div>
 
 <p align="center">
