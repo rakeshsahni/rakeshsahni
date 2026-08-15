@@ -1,4 +1,46 @@
-<h1 align="center">Hi there, I'm Rakesh Sahni 👋</h1>
+# Rakesh Sahni
+
+I’m an Engineer studying how AI systems behave in real situations.
+
+## Apliro
+
+An independent project for testing AI behavior through open, reproducible experiments.
+
+Every public study includes:
+
+* Exact prompts and test conditions
+* Model names and versions
+* Run dates and sample sizes
+* Complete outputs
+* Analysis code
+* Limitations and unresolved questions
+
+Website: https://apliro.com
+X: https://x.com/rakeshsahni_
+
+## Current work
+
+I work as a AI Engineer at Pratham International, where I build AI systems for education. My work includes generative AI workflows, automated evaluation, and offline model deployment.
+
+## Selected experience
+
+* Built AI products used across 10,000+ interactions
+* Reduced manual grading time through generative AI automation
+* Developed voice-based AI interview systems
+* Fine-tuned language models for offline environments
+* Published 750+ technical articles
+
+## Current research interests
+
+* AI behavior and evaluation
+* Behavioral stability
+* AI-agent reliability
+* Reproducible model testing
+* Real-world evaluation beyond standard benchmarks
+
+
+
+<!-- <h1 align="center">Hi there, I'm Rakesh Sahni 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=AI+Engineer;Building+AI-Driven+Solutions" alt="Typing SVG" />
@@ -104,4 +146,4 @@ CGPA: **8.68/10**
 
 <div align="center">
   <i>⚡ "Building AI solutions that make a real difference in people's lives"</i>
-</div>
+</div> -->
