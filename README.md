@@ -15,8 +15,9 @@ Every public study includes:
 * Analysis code
 * Limitations and unresolved questions
 
-Website: https://apliro.com
-X: https://x.com/rakeshsahni_
+[Apliro](https://apliro.com)
+
+[X](https://x.com/rakeshsahni_)
 
 ## Current work
 
